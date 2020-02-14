@@ -2,13 +2,11 @@ package main
 
 import (
 	"flag"
-	//"fmt"
 	"github.com/hongjundu/go-level-logger"
 	"github.com/hpcloud/tail"
 	"github.com/sevlyar/go-daemon"
 	"log"
 	"os"
-	//"os/signal"
 	"syscall"
 	"time"
 )
